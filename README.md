@@ -1,7 +1,5 @@
 # Capstone Sistem Peminjaman Buku Perpustakaan
 
-**Deskripsi repo:** Aplikasi terminal berbasis Python dan MySQL untuk mengelola peminjaman buku perpustakaan, mulai dari pengajuan mahasiswa, approval pustakawan, pengembalian buku, manajemen stok, statistik, hingga visualisasi data.
-
 ## Ringkasan
 
 Aplikasi ini dibuat untuk kebutuhan Capstone Project Module 1. Project ini menerapkan dasar pemrograman Python, integrasi database MySQL, operasi CRUD, statistik deskriptif, dan visualisasi data sederhana.
